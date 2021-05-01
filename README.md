@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrightCoder10
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Ktlin and Android Programming
+- 🌱 I’m currently learning Kotlin and Android Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
